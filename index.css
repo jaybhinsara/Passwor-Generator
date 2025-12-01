@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.877);
+    font-family: "Varela Round", sans-serif;
+    color: white;
+    text-align: start;
+    margin-top: 80px;
+}
+
+h1, h4 {
+    display: inline;
+}
+
+#gntext {
+    color: rgb(40, 222, 161);
+}
+
+button {
+    color: rgba(0, 0, 0, 0.877);
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(40, 222, 161);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input {
+    font-family: "Varela Round", sans-serif;
+    background-color: rgba(255, 255, 255, 0.274);
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    gap: 20px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
